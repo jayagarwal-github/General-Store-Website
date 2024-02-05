@@ -17,9 +17,10 @@ CSS: Employed for styling and layout, enhancing the visual presentation and user
 Getting Started:
 To view the website locally, simply clone this repository and open the index.html file in your preferred web browser.
 
+OR
+
+Go through this link:-
+Link:- https://jayagarwal-github.github.io/General-Store-Website/
+
 Contributing:
 Contributions are welcome! If you have any suggestions for improvements or would like to report any issues, please feel free to open an issue or submit a pull request.
-
-License:
-This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both personal and commercial purposes.
-
